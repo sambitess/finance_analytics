@@ -1,0 +1,8 @@
+{
+    "sourceDir" : "D:/sourceDir", 
+    "targetDir" : "E:/targetDir", 
+    "dbuser" : "postgres",
+    "dbpassword" : "root", 
+    "dbport" : "localhost:5432",
+    "dbname" : "db1"
+}
